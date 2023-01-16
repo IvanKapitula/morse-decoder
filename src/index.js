@@ -66,7 +66,7 @@ array[i] = expr.slice(i * 10,(i + 1) * 10);
     return arrayNew.join('');
     // write your solution here
 }
-
+// write your solution here
 module.exports = {
     decode
 }
